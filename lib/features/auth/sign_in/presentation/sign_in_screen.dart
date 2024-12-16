@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:share_your_tale/ui/ui.dart';
-import 'package:share_your_tale/ui/widgets/icon_svg/icon_svg.dart';
+import 'package:share_your_tale/ui/widgets/widgets.dart';
 
 class SignInScreen extends StatefulWidget {
   const SignInScreen({super.key});

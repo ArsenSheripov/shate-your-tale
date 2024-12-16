@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/rendering.dart';
-import 'package:flutter/widgets.dart';
-import 'package:share_your_tale/ui/ui.dart';
+
+import '../widgets.dart';
 
 abstract class BaseButton extends StatelessWidget {
   const BaseButton({

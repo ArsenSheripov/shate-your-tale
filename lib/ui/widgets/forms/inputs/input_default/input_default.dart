@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:share_your_tale/ui/core/project_icons.dart';
 import 'package:share_your_tale/ui/ui.dart';
 import 'package:share_your_tale/ui/widgets/icon_svg/icon_svg.dart';
 
